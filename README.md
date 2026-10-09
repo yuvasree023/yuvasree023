@@ -11,10 +11,10 @@ Final-year B.Tech student (AI & Data Science) building end-to-end ML and LLM sys
 | Project | What it does | Stack |
 |---|---|---|
 | [Telco Customer Churn](https://github.com/yuvasree023/Telco_Customer_Churn) | Churn prediction served via API + UI, deployed on AWS with CI/CD | XGBoost, MLflow, FastAPI, Docker, AWS ECS |
-| [Recover](https://github.com/yuvasree023/RECOVERY_AGENT) | LLM agent that recovers failed transactions under safety guardrails (+9.19 pp lift vs control in a 223-transaction replay) | Gemini, Python, TypeScript |
-| [DevPulse](https://github.com/yuvasree023/DEV_PULSE) | Dashboard measuring AI coding tools' impact on developer productivity | FastAPI, scikit-learn, React |
+| [Recover](https://github.com/yuvasree023/RECOVERY_AGENT) | LLM agent that recovers failed transactions under safety guardrails (+9.19 pp lift vs control in a 223-transaction replay) ([live demo](https://recovery-agent-kohl.vercel.app)) | Gemini, Python, TypeScript |
+| [DevPulse](https://github.com/yuvasree023/DEV_PULSE) | Dashboard measuring AI coding tools' impact on developer productivity ([live demo](https://dev-pulse-lhnv-nine.vercel.app/)) | FastAPI, scikit-learn, React |
 | [Resume Optimizer](https://github.com/yuvasree023/Resume-optimizer) | Scores resumes and rewrites bullets for a target job ([live demo](https://resume-optimizer-epk34p7se6qog5biaraumf.streamlit.app/)) | Streamlit, Groq, PyMuPDF |
-| [Rena](https://github.com/yuvasree023/Rena-AI) | Resolves conflicting product data into validated golden records | TypeScript, React |
+| [Rena](https://github.com/yuvasree023/Rena-AI) | Resolves conflicting product data into validated golden records ([live demo](https://rena-ai-alpha.vercel.app)) | TypeScript, React |
 
 ## Tech
 Python · SQL · scikit-learn · XGBoost · TensorFlow · Pandas · MLflow · FastAPI · Docker · GitHub Actions · AWS · Streamlit
