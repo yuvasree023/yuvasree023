@@ -10,7 +10,7 @@ Final-year B.Tech student (AI & Data Science) building end-to-end ML and LLM sys
 ## Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [DevPulse](https://github.com/yuvasree023/DEV_PULSE) | Per-user dashboard measuring how AI coding tools affect developer productivity — GitHub sign-in, live repo activity, sample-analytics demo clearly separated ([live app](https://devpulse-app-snowy.vercel.app/dashboard)) | React, TypeScript, FastAPI, PostgreSQL |
+| [DevPulse](https://github.com/yuvasree023/DEV_PULSE) | Per-user dashboard measuring how AI coding tools affect developer productivity - GitHub sign-in, live repo activity, sample-analytics demo clearly separated ([live app](https://devpulse-app-snowy.vercel.app/dashboard)) | React, TypeScript, FastAPI, PostgreSQL |
 | [OP-05: Ask the Policy Book](https://github.com/yuvasree023/op-05-ask-the-policy-book) | Policy Q&A with hybrid BM25 + embedding retrieval, role-aware filtering and exact citations; reproducible offline with candid evaluation results | Python, BM25, MiniLM, Gemini |
 | [Agent Evals](https://github.com/yuvasree023/agent-evals) | Evaluation harness for tool-using agents: trace and state graders, runtime confirmation gates, frozen holdout sets with saved failures ([live demo](https://agent-evals-seven.vercel.app/)) | Python, SQLite, Groq, Gemini |
 
@@ -18,7 +18,7 @@ Final-year B.Tech student (AI & Data Science) building end-to-end ML and LLM sys
 | Project | What it does | Stack |
 |---|---|---|
 | [Telco Customer Churn](https://github.com/yuvasree023/Telco_Customer_Churn) | Churn prediction served via API + UI, deployed on AWS with CI/CD | XGBoost, MLflow, FastAPI, Docker, AWS ECS |
-| [Recover](https://github.com/yuvasree023/RECOVERY_AGENT) | LLM agent that recovers failed transactions under safety guardrails (+9.19 pp lift vs control in a 223-transaction replay) ([live demo](https://recovery-agent-kohl.vercel.app)) | Gemini, Python, TypeScript |
+| [Recover](https://github.com/yuvasree023/RECOVERY_AGENT) | LLM agent that recovers failed transactions under safety guardrails (offline simulation with a saved replay report and stated limits) ([live demo](https://recovery-agent-kohl.vercel.app)) | Gemini, Python, TypeScript |
 | [Resume Optimizer](https://github.com/yuvasree023/Resume-optimizer) | Scores resumes and rewrites bullets for a target job ([live demo](https://resume-optimizer-epk34p7se6qog5biaraumf.streamlit.app/)) | Streamlit, Groq, PyMuPDF |
 | [Rena](https://github.com/yuvasree023/Rena-AI) | Resolves conflicting product data into validated golden records ([live demo](https://rena-ai-alpha.vercel.app)) | TypeScript, React |
 
